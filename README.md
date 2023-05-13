@@ -9,4 +9,4 @@ This file contains the flag (proof you finished) for this challenge.
 After you find the flag, DM it to me on Discord or email it to me.
 
 ## Challenge 2
-There is another flag hidden somewhere in the same dirrectory.
+There is another flag hidden somewhere in the same directory.
