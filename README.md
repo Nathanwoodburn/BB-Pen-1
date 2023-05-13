@@ -3,13 +3,19 @@ There is a server running at `45.79.118.12` (or kali.boysbrigade.au).
 You can connect using the following username: `gituser`  
 Somewhere in this repository is the password to the user `gituser`.
 
-## Challenge 1
+## Challenge 1 (Super Easy)
 Once you log in, you will find a file called `flag.txt` in the home directory.  
 This file contains the flag (proof you finished) for this challenge.  
 After you find the flag, DM it to me on Discord or email it to me.
 
-## Challenge 2
+## Challenge 2 (Still Super Easy)
 There is another flag hidden somewhere in the same directory.
+
+## Challenge 3 (More Difficult)
+There are many more flags hidden around the server.  
+Whoever finds the most flags will win a prize next week.  
+Submit your flags to me by DM on Discord or email.  
+Or you can just tell me in person on Friday.
 
 ### Hints
 - After you find the password, you can use `ssh` to log in to the server.
