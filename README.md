@@ -30,3 +30,9 @@ Or you can just tell me in person on Friday.
   - `help` or `man` - Get help about a command (some commands need one or the other)
   - `su` - Switch user Eg. `su gituser` (you will be prompted for the password)
   - `logout` - Log out of the server (also `Ctrl+D`)
+
+### Without SSH
+If you don't have SSH you will be shown this message when you try to connect:  
+!['ssh' is not recognized asan internal or external command, operable probgram or batch file.](not_installed.png)  
+If this happens for you, you can use https://ssh.boysbrigade.au to connect to the server over the web.  
+Use username `BB` and the same password as you would to SSH.
