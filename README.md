@@ -29,6 +29,7 @@ Or you can just tell me in person on Friday.
   - `cd <directory>` - Change directory (disabled for you atm)
   - `help` or `man` - Get help about a command (some commands need one or the other)
   - `su` - Switch user Eg. `su gituser` (you will be prompted for the password)
+  - `echo \<variable\>` - Print the value of a variable (eg. `echo $flag`)
   - `logout` - Log out of the server (also `Ctrl+D`)
 
 ### Without SSH
